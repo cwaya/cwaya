@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @cwaya
-- 👀 I’m interested in Lagos, Nigeria
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me ...
+- 📍 Resides in Lagos, Nigeria
+- 📭 I post my learning progress on twitter.
+- 💬 Your inputs and advices are welcome.
+
 
 <!---
 cwaya/cwaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
