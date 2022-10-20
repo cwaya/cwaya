@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @cwaya
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Ifeanyi Cyril Okeke {Cwaya}.
+- 🌱 I’m currently learning Web Development.
+- ✔️ HTML & CSS.
+- 🚧 CSS Frameworks and Javascript {In progress}.
 - 📍 Resides in Lagos, Nigeria
 - 📭 I post my learning progress on twitter.
 - 💬 Your inputs and advices are welcome.
