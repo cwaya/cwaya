@@ -5,6 +5,7 @@
 - 📍 Resides in Lagos, Nigeria
 - 📭 I post my learning progress on twitter.
 - 💬 Your inputs and advices are welcome.
+- 👬 Collaboration is highly welcome.
 
 
 <!---
